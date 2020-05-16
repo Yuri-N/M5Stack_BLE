@@ -1,2 +1,2 @@
 # M5Stack BLE関連のArduinoスケッチ
- ・sketch_show_AdvertizingBLE：Advertizingパケットをスキャンする。
+ ・Show_Advertizing_BLE：Advertizingパケットをスキャンする。
